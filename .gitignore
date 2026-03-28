@@ -32,3 +32,6 @@ bin/
 ### IDE
 .idea/
 *.iml
+
+### .study_user 제외
+.study_user
